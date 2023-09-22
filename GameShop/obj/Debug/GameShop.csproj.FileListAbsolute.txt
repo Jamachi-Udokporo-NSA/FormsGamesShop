@@ -1,0 +1,22 @@
+H:\Documents\Year2\Advanced Programming\GameShop\GameShop\obj\Debug\GameShop.csproj.AssemblyReference.cache
+H:\Documents\Year2\Advanced Programming\GameShop\GameShop\obj\Debug\GameShop.Form1.resources
+H:\Documents\Year2\Advanced Programming\GameShop\GameShop\obj\Debug\GameShop.Properties.Resources.resources
+H:\Documents\Year2\Advanced Programming\GameShop\GameShop\obj\Debug\GameShop.csproj.GenerateResource.cache
+H:\Documents\Year2\Advanced Programming\GameShop\GameShop\obj\Debug\GameShop.csproj.CoreCompileInputs.cache
+H:\Documents\Year2\Advanced Programming\GameShop\GameShop\bin\Debug\GameShop.exe.config
+H:\Documents\Year2\Advanced Programming\GameShop\GameShop\bin\Debug\GameShop.exe
+H:\Documents\Year2\Advanced Programming\GameShop\GameShop\bin\Debug\GameShop.pdb
+H:\Documents\Year2\Advanced Programming\GameShop\GameShop\obj\Debug\GameShop.exe
+H:\Documents\Year2\Advanced Programming\GameShop\GameShop\obj\Debug\GameShop.pdb
+H:\Documents\Year2\GameShop\GameShop\bin\Debug\GameShop.exe.config
+H:\Documents\Year2\GameShop\GameShop\bin\Debug\GameShop.exe
+H:\Documents\Year2\GameShop\GameShop\bin\Debug\GameShop.pdb
+H:\Documents\Year2\GameShop\GameShop\bin\Debug\FontAwesome.Sharp.dll
+H:\Documents\Year2\GameShop\GameShop\obj\Debug\GameShop.csproj.AssemblyReference.cache
+H:\Documents\Year2\GameShop\GameShop\obj\Debug\GameShop.Form1.resources
+H:\Documents\Year2\GameShop\GameShop\obj\Debug\GameShop.Properties.Resources.resources
+H:\Documents\Year2\GameShop\GameShop\obj\Debug\GameShop.csproj.GenerateResource.cache
+H:\Documents\Year2\GameShop\GameShop\obj\Debug\GameShop.csproj.CoreCompileInputs.cache
+H:\Documents\Year2\GameShop\GameShop\obj\Debug\GameShop.csproj.CopyComplete
+H:\Documents\Year2\GameShop\GameShop\obj\Debug\GameShop.exe
+H:\Documents\Year2\GameShop\GameShop\obj\Debug\GameShop.pdb
